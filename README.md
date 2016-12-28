@@ -1,10 +1,14 @@
 # ejercicio7-17
-- inicio:posNeg
+
+*inicio:posNeg*
+
 ## Ingreso de Datos
 - a
 - b
 - suma
+
 ## Proceso
+
 - si a<0 y b<0 
     - mostrar 1
 - sino 
@@ -15,6 +19,7 @@
     - si no
         - mostra 0
 - fin si
+
 *fin*
 
     
